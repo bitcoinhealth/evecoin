@@ -15,10 +15,10 @@ Install Windows Linux QT for wallet only.
 # Mine: 
 To mine EVE coin create .sh file in the SRC directory with the following:
 
-while :
-do
-./electricvehicleenergycoin-cli generate 1
-done
+1. while :
+2. do
+3. ./electricvehicleenergycoin-cli generate 1
+4. done
 
 
 # Project Timeline
